@@ -41,6 +41,8 @@ We will represent each state in the following format.
     ’B’ denotes a black king.
 
 The following are the example of states
+<pre>
+```plaintext
 ........
 ....b...
 .......R
@@ -49,6 +51,8 @@ The following are the example of states
 ........
 ...r....
 ....B...
+```
+</pre>
 Each input file contains one state. Your program controls the red pieces, and it is your turn to make a move.
 
 Each output file contains the sequence of states until the end of the game. The first state is the same as the state in the input file. The last state is a state denoting the end of the game. There is one empty line between any two consecutive states.
