@@ -42,7 +42,7 @@ We will represent each state in the following format.
 
 The following are the example of states
 <pre>
-```plaintext
+```
 ........
 ....b...
 .......R
